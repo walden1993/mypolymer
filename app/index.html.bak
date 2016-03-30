@@ -190,7 +190,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 				<p>Hello, World!</p>
 			  </paper-material>
 			</section>
-
           </iron-pages>
         </div>
       </paper-scroll-header-panel>
